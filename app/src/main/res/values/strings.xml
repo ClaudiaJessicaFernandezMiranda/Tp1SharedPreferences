@@ -1,0 +1,21 @@
+<resources>
+<string name="app_name">Tp1SharedPreferences</string>
+
+<!-- TODO: Login -->
+<string name="prompt_email">Correo Electrónico</string>
+<string name="prompt_contrasena">Contraseña</string>
+<string name="text_ingresar">Ingresar</string>
+<string name="text_registrar">Registrarse</string>
+<!-- TODO: Login -->
+
+<!-- TODO: Registro -->
+<string name="activity_registro_titulo">Creando Usuario</string>
+<string name="activity_registro_titulo_logeado">Datos Del Usuario</string>
+<string name="prompt_dni">DNI</string>
+<string name="prompt_apellido">Apellido</string>
+<string name="prompt_nombre">Nombre</string>
+<string name="btn_editar">Editar Usuario</string>
+<string name="btn_modificar">Guardar</string>
+<!-- TODO: Registro -->
+
+</resources>
